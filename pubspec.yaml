@@ -1,0 +1,9 @@
+name: dooq
+version: 0.0.0
+author: Luis Vargas <luisvargastijerino@gmail.com>
+description: A pub package
+homepage: https://github.com/luisvt/dooq
+dependencies:
+  drails_commons:
+    path: ../drails_commons
+  unittest: any
